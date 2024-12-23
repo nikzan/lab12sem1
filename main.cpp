@@ -80,7 +80,7 @@ int main() {
                 break;
             }
             case 4: {
-                process_exam_results();
+                exam_results();
                 break;
             }
         }

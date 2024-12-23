@@ -5,7 +5,7 @@
 #include <vector>
 #include <sstream>
 
-void process_exam_results() {
+void exam_results() {
     std::ifstream input("../files/students.txt");
     if (!input.is_open()) {
         std::cout << "Ошибка открытия файла 'students.txt'\n";
