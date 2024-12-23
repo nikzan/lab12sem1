@@ -1,0 +1,5 @@
+Ivanov        78
+Zanadvornykh  86
+Alekseev      85
+Petrov        76
+Popov         83

@@ -1,0 +1,7 @@
+Second name    Score
+------------------
+Alekseev        85
+Ivanov          78
+Petrov          76
+Popov           83
+Zanadvornykh    86
